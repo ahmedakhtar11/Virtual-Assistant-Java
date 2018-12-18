@@ -25,7 +25,7 @@ import java.util.Scanner;
         {
             Calendar calender=Calendar.getInstance();
             Date date=calender.getTime();
-            System.out.println("Current Date and Time is:-");
+            System.out.println("Current Date and Time is:");
             System.out.println(date.toLocaleString());
         }
 
