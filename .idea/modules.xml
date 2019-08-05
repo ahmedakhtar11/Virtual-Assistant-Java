@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Virtualassistant.iml" filepath="$PROJECT_DIR$/Virtualassistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VirtualAssistant.iml" filepath="$PROJECT_DIR$/VirtualAssistant.iml" />
     </modules>
   </component>
 </project>

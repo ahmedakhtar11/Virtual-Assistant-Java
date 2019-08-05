@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0d302a3-4e5e-4f62-a5af-9fd99457712b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="08fa34df-f434-4f76-8a95-473cf86e56b5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,52 +10,76 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1027638028">
+    <session id="-1349933110">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="187" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="187" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Virtualassistant.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/VirtualAssistantApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="136">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding>
-                <element signature="e#0#1675#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/Greeting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/OracleAssistant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1606#1607#0" expanded="true" />
+                <element signature="e#1686#1687#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
+                <element signature="e#1797#1798#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,64 +94,75 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>virtualass</find>
+      <find>virtualassistant</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Virtualassistant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/OracleAssistant.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1536" />
-    <option name="y" value="156" />
-    <option name="width" value="696" />
-    <option name="height" value="878" />
+    <option name="x" value="1358" />
+    <option name="width" value="1390" />
+    <option name="height" value="1756" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Virtualassistant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
+              <item name="VirtualAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Virtualassistant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Virtualassistant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Virtualassistant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Virtualassistant" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Virtualassistant" type="462c0819:PsiDirectoryNode" />
+              <item name="VirtualAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="VirtualAssistant" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544924613072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564971088872" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,17 +176,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Virtualassistant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Virtualassistant" />
-      <module name="Virtualassistant" />
+  <component name="RunManager" selected="Application.OracleAssistant">
+    <configuration name="OracleAssistant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.VirtualAssistant.OracleAssistant" />
+      <module name="VirtualAssistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.VirtualAssistant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VirtualAssistantApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.VirtualAssistant.VirtualAssistantApplication" />
+      <module name="VirtualAssistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.VirtualAssistant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VirtualAssistantApplication" />
+      <item itemvalue="Application.OracleAssistant" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Virtualassistant" />
+        <item itemvalue="Application.OracleAssistant" />
+        <item itemvalue="Application.VirtualAssistantApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -160,31 +219,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0d302a3-4e5e-4f62-a5af-9fd99457712b" name="Default Changelist" comment="" />
-      <created>1544924445568</created>
+      <changelist id="08fa34df-f434-4f76-8a95-473cf86e56b5" name="Default Changelist" comment="" />
+      <created>1564969759094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544924445568</updated>
+      <updated>1564969759094</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2154195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.32891247" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891247" />
+      <window_info anchor="bottom" id="Messages" weight="0.331565" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32228118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,27 +263,61 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Virtualassistant.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Virtualassistant.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/VirtualAssistantApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="136">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
-            <element signature="e#0#1675#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/Greeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VirtualAssistant/OracleAssistant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1797#1798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
